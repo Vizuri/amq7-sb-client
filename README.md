@@ -1,6 +1,6 @@
-*** Changes Needed To Upgrade to ActiveMQ 7
+### Changes Needed To Upgrade to ActiveMQ 7
 
-** POM Changes
+## POM Changes
 
 Updated Spring Boot Parent POM from 1.5.9.RELEASE to 2.1.1.RELEASE
 
@@ -64,7 +64,7 @@ To
 		<!-- activemq -->
 ```
 
-** Code Changes
+##* Code Changes
 
 Added settings to the DefaultJmsListenerContainerFactory
 
