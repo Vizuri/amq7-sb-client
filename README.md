@@ -1,4 +1,4 @@
-### Changes Needed To Upgrade to ActiveMQ 7
+### Changes Needed To Upgrade to AMQ 7
 
 ## POM Changes
 
